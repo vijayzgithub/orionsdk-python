@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Workspace Experience">81a6ba9b530233004cb4ddeeff7b1258</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Orion ➚</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>101</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>x/451780/workspace/orionsdk</query>
+        <report/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-05 14:44:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aaf158322fdb0010ddd655f62799b641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Orion ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Orion" source="x_451780_orion">3e41187e2f9b0010ddd655f62799b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orion">3e41187e2f9b0010ddd655f62799b60e</sys_scope>
+        <sys_update_name>sys_app_module_aaf158322fdb0010ddd655f62799b641</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-05 14:44:21</sys_updated_on>
+        <timeline_page/>
+        <title>Orion ➚</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>Orion</window_name>
+    </sys_app_module>
+</record_update>

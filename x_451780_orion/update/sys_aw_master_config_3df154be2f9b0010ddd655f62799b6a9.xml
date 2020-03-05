@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Orion">7df154be2f9b0010ddd655f62799b6aa</compiled_page_registry>
+        <description>Orion SDK</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Orion Search Context Config">f9f154be2f9b0010ddd655f62799b6a7</global_search_data>
+        <name>Orion</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-05 14:44:18</sys_created_on>
+        <sys_id>3df154be2f9b0010ddd655f62799b6a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Orion</sys_name>
+        <sys_package display_value="Orion" source="x_451780_orion">3e41187e2f9b0010ddd655f62799b60e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Orion">3e41187e2f9b0010ddd655f62799b60e</sys_scope>
+        <sys_update_name>sys_aw_master_config_3df154be2f9b0010ddd655f62799b6a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-05 14:44:18</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>orionsdk</workspace_url>
+    </sys_aw_master_config>
+</record_update>
